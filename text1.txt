@@ -1,1 +1,2 @@
 For training purpose. How to create main and branch files.
+and then how to push and pull accross local machine, loca github desktop and remote github. 
